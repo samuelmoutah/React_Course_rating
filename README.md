@@ -1,5 +1,5 @@
-# React_Course_rating
-Simple rating app
+# React_Course_rating_app
+Simple course rating app
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
